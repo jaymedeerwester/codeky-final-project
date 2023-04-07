@@ -79,41 +79,6 @@ img {
 }
 
 
-/* CSS */
-.btn {
-  background-color: antiquewhite;
-  border: thin;
-	border-radius: 10px;
-	border color: black;
-  padding: 16px 32px;
-  text-align: center;	
-  font-size: 16px;
-  margin: 4px 2px;
-  transition: 0.3s;
-}
-
-.btn:hover {
-  background-color: whitesmoke;
-  color: white;
-}
-
-
-.button-40:hover {
-  background-color: #374151;
-}
-
-.button-40:focus {
-  box-shadow: none;
-  outline: 2px solid transparent;
-  outline-offset: 2px;
-}
-
-@media (min-width: 768px) {
-  .button-40 {
-    padding: .75rem 1.5rem;
-  }
-}
-
 /* figcaption {
 	background-color: darkslategray;
 	color: white;
