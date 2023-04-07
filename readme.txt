@@ -1,5 +1,6 @@
 Project purpose:
 A photo gallery celebrating the judgmental dogs in our lives with a submission form
+NOTE: Because we aren't far enough along in javascript to build the backend of a form, I was told to just create the front end.
 
 Features:
 1. Create a responsive menu with CSS
